@@ -55,8 +55,9 @@ build/
 *Test/
 ts/
 out/
-dbg/
 rel/
+gs/UnicornLands/dbg/*
+!gs/UnicornLands/dbg/UL.debug.js
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
